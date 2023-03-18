@@ -1,0 +1,14 @@
+<h4 class="small fw-bold">
+  {{project}}<span class="float-end">{{progressPrint}}</span>
+</h4>
+<div class="progress mb-4">
+  <div
+    class="{{progressClass}}"
+    attr.aria-valuenow="{{progress}}"
+    aria-valuemin="0"
+    aria-valuemax="100"
+    style="width: {{progress}}%"
+  >
+    <span class="visually-hidden">{{progressPrint}}</span>
+  </div>
+</div>
