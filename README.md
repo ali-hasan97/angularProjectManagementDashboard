@@ -1,5 +1,9 @@
 # ProjectManagementDashboard
 
+![image](https://user-images.githubusercontent.com/77036553/226094229-57801a96-aebd-4f4f-b816-35c07e7f6d48.png)
+
+This is a project management dashboard. It is a single page application. The HTML, CSS, and JS was generated using Boostrap Studio, then the files were modified to integrate with Angular.js. The code was broken down into reusable components as well.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 ## Development server
